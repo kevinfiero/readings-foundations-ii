@@ -9,3 +9,8 @@
 * I am definitely going to bookmark these resources to come back when needed.
 
 **Read 04c: Asynchronous JavaScript, Promises, and fetch**
+* This is a review of callbacks that we have been doing over the past few labs. There are downsides to callbacks, as stated in the article, such as too much nesting.
+* The article on promises is making my head spin. I thought callbacks were complicated! I can understand that these are used for asynchronous processes and can be useful. However, I am not exactly following the implementation details.
+* The PromiseAll seems useful if you need to wait for multiple processes to finish before proceeding.
+* After watching the video I got lost after he started using <code>.then</code>. 
+* Fetch seems a little more straight forward in the video example where you are pulling data via URL.
