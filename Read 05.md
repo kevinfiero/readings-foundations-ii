@@ -1,0 +1,6 @@
+**Read 05a: Heroku**
+* Deployed my 'desolate woodland' app on Heroku. This seems similar to Netlify so am interested to see how they differ.
+
+
+**Read 05b: Problem Solving and Better Questions**
+As these articles mention, problem solving and critical thinking are valuable skills to have. This reminds me of when I try to help an older family member troubleshoot technology and they complain that "it doesn't work, fix it!" while becoming overwhelmed and frustrated. Often I will ask, "what exactly is not working?", "what did you try?", and "what are you doing differently than last time?" Going through these rational steps and assessing the problem more scientifically often leads to better results and less heartache. The same can be applied to coding. When there is an issue, follow the error, look for typos, etc. Then if all else fails, ask for help. I find it important to try most avenues that I can think of first before asking for help so that I can continue to develop these critical thinking skills.
